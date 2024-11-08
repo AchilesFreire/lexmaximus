@@ -1,0 +1,72 @@
+program LexMaximus;
+
+uses
+  Forms,
+  Principal in 'Forms\Principal.pas' {FrmPrincipal},
+  Configuracoes in 'Units\Configuracoes.pas',
+  Funcoes in 'Units\Funcoes.pas',
+  cls_Conexao in 'Units\cls_Conexao.pas',
+  CompressaoDados in '..\Common\CompressaoDados.pas',
+  Ativacao in 'Forms\Ativacao.pas' {FrmAtivacao},
+  Splash in 'Forms\Splash.pas' {FrmSplash},
+  ControleLicenca in '..\Common\ControleLicenca.pas',
+  Message in 'Forms\Message.pas' {FrmMessage},
+  Administrador in 'Forms\Administrador.pas' {FrmAdministrador},
+  PassoAPassoAdministrador in 'Forms\PassoAPassoAdministrador.pas' {FrmPassoAPassoAdministrador},
+  AtualizacoesSistema in 'Units\AtualizacoesSistema.pas',
+  AndamentoPesquisa in 'Forms\AndamentoPesquisa.pas' {FrmAndamento},
+  EdicaoNota in 'Forms\EdicaoNota.pas' {FrmEdicaoNota},
+  AlteracaoDocumento in 'Forms\AlteracaoDocumento.pas' {FrmAlteracaoLei},
+  LicencaUso in 'Forms\LicencaUso.pas',
+  EditorConfiguracoes in 'Forms\EditorConfiguracoes.pas',
+  AjusteExecucaoCD in 'Forms\AjusteExecucaoCD.pas' {FrmAjusteExecucaoCD},
+  HDFunc in '..\Common\HDFunc.pas',
+  FuncoesClipBoard in 'Units\FuncoesClipBoard.pas',
+  Conexoes in 'Units\Conexoes.pas' {DMConexoes: TDataModule},
+  DownloadInstalacaoAtualizacoes in 'Forms\DownloadInstalacaoAtualizacoes.pas',
+  InstalacaoAtualizacao in 'Forms\InstalacaoAtualizacao.pas',
+  SelecaoAtualizacaoCinza in 'Forms\SelecaoAtualizacaoCinza.pas',
+  AssinaturaExpirou in 'Forms\AssinaturaExpirou.pas',
+  MensagemErroBancoDados in 'Forms\MensagemErroBancoDados.pas',
+  DownloadAtualizacoes in 'Units\DownloadAtualizacoes.pas',
+  VerificacaoAtualizacoes in 'Units\VerificacaoAtualizacoes.pas',
+  cls_assinaturacliente in '..\Common\LojaElfez\BusinessClass\cls_assinaturacliente.pas',
+  cls_atualizacao in '..\Common\LojaElfez\BusinessClass\cls_atualizacao.pas',
+  cls_Cliente in '..\Common\LojaElfez\BusinessClass\cls_Cliente.pas',
+  cls_produto in '..\Common\LojaElfez\BusinessClass\cls_produto.pas',
+  cls_usuario in '..\Common\LojaElfez\BusinessClass\cls_usuario.pas',
+  rul_assinaturacliente in '..\Common\LojaElfez\BusinessRule\rul_assinaturacliente.pas',
+  rul_atualizacao in '..\Common\LojaElfez\BusinessRule\rul_atualizacao.pas',
+  rul_Cliente in '..\Common\LojaElfez\BusinessRule\rul_Cliente.pas',
+  rul_produto in '..\Common\LojaElfez\BusinessRule\rul_produto.pas',
+  rul_usuario in '..\Common\LojaElfez\BusinessRule\rul_usuario.pas',
+  Cls_OcorrenciaLei in '..\Common\LexMaximus\BusinessClass\Cls_OcorrenciaLei.pas',
+  cls_PalavraLexMaximus in '..\Common\LexMaximus\BusinessClass\cls_PalavraLexMaximus.pas',
+  cls_TextoLei in '..\Common\LexMaximus\BusinessClass\cls_TextoLei.pas',
+  cls_TipoLei in '..\Common\LexMaximus\BusinessClass\cls_TipoLei.pas',
+  cls_Lei in '..\Common\LexMaximus\BusinessClass\cls_Lei.pas',
+  cls_NotaLei in '..\Common\LexMaximus\BusinessClass\cls_NotaLei.pas',
+  Rul_Lei in '..\Common\LexMaximus\BusinessRule\Rul_Lei.pas',
+  Rul_NotaLei in '..\Common\LexMaximus\BusinessRule\Rul_NotaLei.pas',
+  Rul_OcorrenciaLei in '..\Common\LexMaximus\BusinessRule\Rul_OcorrenciaLei.pas',
+  Rul_PalavraLexMaximus in '..\Common\LexMaximus\BusinessRule\Rul_PalavraLexMaximus.pas',
+  Rul_TextoLei in '..\Common\LexMaximus\BusinessRule\Rul_TextoLei.pas',
+  Rul_TipoLei in '..\Common\LexMaximus\BusinessRule\Rul_TipoLei.pas',
+  Browser in 'Forms\Browser.pas',
+  BrowserLocal in 'Forms\BrowserLocal.pas',
+  EsqueciSenha in 'Forms\EsqueciSenha.pas',
+  Mensagens in 'Units\Mensagens.pas',
+  ConfiguracoesLogin in 'Units\ConfiguracoesLogin.pas',
+  Atualizacoes in 'Forms\Atualizacoes.pas',
+  FuncoesValidacao in 'Units\FuncoesValidacao.pas',
+  rul_OcorrenciaAcepcao in '..\Common\LexMaximus\BusinessRule\rul_OcorrenciaAcepcao.pas',
+  cls_OcorrenciaAcepcao in '..\Common\LexMaximus\BusinessClass\cls_OcorrenciaAcepcao.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TDMConexoes, DMConexoes);
+  Application.CreateForm(TFrmPrincipal, FrmPrincipal);
+  Application.Run;
+end.

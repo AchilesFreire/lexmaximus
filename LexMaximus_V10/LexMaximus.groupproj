@@ -1,0 +1,36 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{B4D86D87-742E-42B4-9977-25F95D7BD7AA}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="LexMaximus.dproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="LexMaximus">
+			<MSBuild Projects="LexMaximus.dproj"/>
+		</Target>
+		<Target Name="LexMaximus:Clean">
+			<MSBuild Targets="Clean" Projects="LexMaximus.dproj"/>
+		</Target>
+		<Target Name="LexMaximus:Make">
+			<MSBuild Targets="Make" Projects="LexMaximus.dproj"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="LexMaximus"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="LexMaximus:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="LexMaximus:Make"/>
+		</Target>
+		<Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+	</Project>

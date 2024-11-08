@@ -1,0 +1,28 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=LexMaximus.chm
+Contents file=Contents.hhc
+Default topic=VisaoGeral.htm
+Display compile progress=No
+Index file=LexMaximus.hhk
+Language=0x416 Português (Brasil)
+
+
+[FILES]
+VisaoGeral.htm
+consulta.htm
+notas.htm
+copcolimp.htm
+historico.htm
+layout.htm
+configuracoes.htm
+sobre.htm
+mouse-teclado.htm
+licenca.htm
+menus.htm
+atua.htm
+voltindice.htm
+
+
+[INFOTYPES]
+

@@ -1,0 +1,77 @@
+1996	Decretos Não Numerados\1996\Decreto de 4_12_1996 (187).dat
+1996	Decretos Não Numerados\1996\Decreto de 4_12_1996 (188).dat
+1996	Decretos Não Numerados\1996\Decreto de 4_12_1996 (189).dat
+1996	Decretos Não Numerados\1996\Decreto de 4_12_1996 (190).dat
+1996	Decretos Não Numerados\1996\Decreto de 4_12_1996 (191).dat
+1996	Decretos Não Numerados\1996\Decreto de 3_12_1996 (200).dat
+1996	Decretos Não Numerados\1996\Decreto de 25_11_1996 (259).dat
+1998	Decretos Não Numerados\1998\Decreto de 25_9_1998 (517).dat
+2001	Decretos Não Numerados\2001\Decreto de 29_10_2001 (94).dat
+Súmulas Ordinárias	dat
+Súmulas Ordinárias	Súmulas do STF\Ordinarias\SUMULA001.dat
+1966	Decretos-Lei\1966\0020 de 14_9_66.dat
+1892	Leis Ordinárias\1992\44-B de 2_6_1892.dat
+1892	Leis Ordinárias\1992\126-B de 21_11_1892.dat
+1991	Decretos Não Numerados\1991\ Decreto de 4.6.1991 (155).dat
+1991	Decretos Não Numerados\1991\ Decreto de 6.6.1991 (156).dat
+1991	Decretos Não Numerados\1991\ Decreto de 6.6.1991 (157).dat
+1991	Decretos Não Numerados\1991\ Decreto de 6.6.1991 (158).dat
+1991	Decretos Não Numerados\1991\ Decreto de 5.6.1991 (159).dat
+1991	Decretos Não Numerados\1991\ Decreto de 10.6.1991 (160).dat
+1991	Decretos Não Numerados\1991\ Decreto de 11.6.1991 (162).dat
+1991	Decretos Não Numerados\1991\ Decreto de 11.6.1991 (163).dat
+1991	Decretos Não Numerados\1991\ Decreto de 12.6.1991 (164).dat
+1991	Decretos Não Numerados\1991\ Decreto de 12.6.1991 (165).dat
+1991	Decretos Não Numerados\1991\ Decreto de 12.6.1991 (166).dat
+1991	Decretos Não Numerados\1991\ Decreto de 12.6.1991 (167).dat
+1991	Decretos Não Numerados\1991\ Decreto de 13.6.1991 (168).dat
+1991	Decretos Não Numerados\1991\ Decreto de 15.6.1991 (169).dat
+1991	Decretos Não Numerados\1991\ Decreto de 15.6.1991 (170).dat
+1894	Leis Ordinárias\1994\221  de 20_11_1894.dat
+1895	Leis Ordinárias\1995\359 de 30_12_1895.dat
+1992	Decretos\1992\480 de 25_3_92.dat
+1992	Decretos\1992\481 de 26_3_92.dat
+1992	Decretos\1992\482 de 26_3_92.dat
+1992	Decretos\1992\483 de 31_3_92.dat
+1992	Decretos\1992\484 de 7_4_92.dat
+1992	Decretos\1992\485 de 7_4_92.dat
+1992	Decretos\1992\487 de 7_4_92.dat
+1992	Decretos\1992\488 de 8_4_92.dat
+1992	Decretos\1992\489 de 8_4_92.dat
+1992	Decretos\1992\490 de 8_4_92.dat
+1993	Decretos\1993\946 de 1º_10_93.dat
+1973	Decretos-Lei\1973\1_217 de 9_5_73.dat
+1973	Decretos-Lei\1973\1_256 de 26_1_73.dat
+1973	Decretos-Lei\1973\1_264 de 1º_3_73.dat
+1973	Decretos-Lei\1973\1_267 de 12_4_73.dat
+1973	Decretos-Lei\1973\1_269 de 18_4_73.dat
+1973	Decretos-Lei\1973\1_270 de 2_7_73.dat
+1973	Decretos-Lei\1973\1_276 de 1_6_73.dat
+1973	Decretos-Lei\1973\1_279 de 5_7_73.dat
+1973	Decretos-Lei\1973\1_281 de 24_7_73.dat
+1973	Decretos-Lei\1973\1_285 de 6_9_73.dat
+1973	Decretos-Lei\1973\1_296 de 26_12_73.dat
+1973	Decretos-Lei\1973\1_297 de 26_12_73.dat
+1973	Decretos-Lei\1973\1_300 de 28_12_73.dat
+1973	Decretos-Lei\1973\1_302 de 31_12_73.dat
+1996	Decretos\1996\1_769 de 3_1_96.dat
+1987	Decretos-Lei\19.8\2_387 de 18_12_8.dat
+1987	Decretos-Lei\19.8\2_388 de 18_12_8.dat
+1955	Leis Ordinárias\1955\2_419 de 10_2_55.dat
+1955	Leis Ordinárias\1955\2_437 de 07_3_55.dat
+1998	Decretos\1998\2_537 de 7_4_98.dat
+1998	Decretos\1998\2_769 de 3_9_98.dat
+2000	Decretos\2000\3_366 de 16_2_2000.dat
+1939	Decretos\939 \3_802 de 8_3_1939.dat
+1996	Decretos Não Numerados\1996\ Decreto de 7.10.1996 (4518).dat
+1996	Decretos Não Numerados\1996\ Decreto de 20.12.1996 Publicado no DOU de 23.12.19 (4961).dat
+1971	Leis Ordinárias\1971\5_661 de 16_6_71.dat
+1973	Leis Ordinárias\1973\5_948 de 29_11_73.dat
+1980	Leis Ordinárias\1980\6_676 de 30_4_80.dat
+1981	Leis Ordinárias\1981\6_911 de 27_5_81.dat
+1986	Leis Ordinárias\1986\7_436 de 2_9_86.dat
+1943	Decretos\.194 de 20_7_194.dat
+1953	Decretos\1953\33_126 de 23_6_1953.dat
+1970	Decretos\1970\66_783 de 26_6_1970.dat
+1970	Decretos\1970\66_832 de 3_7_1970.dat
+1970	Decretos\1970\66_833 de 3_7_1970.dat

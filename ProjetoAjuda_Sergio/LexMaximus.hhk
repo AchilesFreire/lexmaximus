@@ -1,0 +1,71 @@
+<HTML>
+<!-- Sitemap 1.0 -->
+<OBJECT type="text/site properties">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Visão Geral">
+		<param name="Name" value="Visão Geral">
+		<param name="Local" value="VisaoGeral.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Formas de consulta">
+		<param name="Name" value="Consulta">
+		<param name="Local" value="Consulta.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Inserção e exclusão de notas">
+		<param name="Name" value="Notas">
+		<param name="Local" value="Notas.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Funções copiar e imprimir">
+		<param name="Name" value="Funções copiar e imprimir">
+		<param name="Local" value="copcolimp.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Histórico das consultas">
+		<param name="Name" value="historico">
+		<param name="Local" value="historico.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Layout">
+		<param name="Name" value="Layout">
+		<param name="Local" value="Layout.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Configuração de fonte, cores e estilos">
+		<param name="Name" value="Configuracoes">
+		<param name="Local" value="Configuracoes.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Sobre">
+		<param name="Name" value="Colar">
+		<param name="Local" value="copcolimp.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Uso do mouse e do teclado">
+		<param name="Name" value="Uso do mouse e do teclado">
+		<param name="Local" value="mouse-teclado.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Licença de uso">
+		<param name="Name" value="Licenca">
+		<param name="Local" value="Licenca.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Menus e Botões">
+		<param name="Name" value="Menus e Botões">
+		<param name="Local" value="menus.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Atualização de normas">
+		<param name="Name" value="Atua">
+		<param name="Local" value="Atua.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Lista Índice">
+		<param name="Name" value="Lista Índice">
+		<param name="Local" value="voltindice.htm">
+		</OBJECT>
+</UL></HTML>

@@ -1,0 +1,107 @@
+
+HOLANDA (Client)	Fri Aug 20 09:41:31 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Client)	Fri Aug 20 09:46:41 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Client)	Sat Aug 21 08:26:06 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Client)	Sun Aug 22 08:57:48 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Client)	Mon Aug 23 11:41:33 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Client)	Tue Aug 24 07:57:16 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Client)	Wed Aug 25 07:39:36 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Client)	Wed Aug 25 08:33:30 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Server)	Wed Aug 25 09:20:18 2010
+	INET/inet_error: select in packet_receive errno = 10038
+
+
+HOLANDA (Client)	Wed Aug 25 15:14:03 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Client)	Wed Aug 25 15:34:18 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Client)	Wed Aug 25 15:38:17 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Server)	Wed Aug 25 20:58:29 2010
+	INET/inet_error: read errno = 10054
+
+
+HOLANDA (Client)	Wed Aug 25 21:31:37 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Client)	Thu Aug 26 08:22:28 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Client)	Fri Aug 27 08:24:45 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Client)	Fri Aug 27 14:14:39 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Client)	Sat Aug 28 07:52:57 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Client)	Sun Aug 29 13:41:44 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Client)	Mon Aug 30 06:20:30 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Client)	Mon Aug 30 08:32:25 2010
+	Guardian starting: "C:\Program Files (x86)\Firebird\Firebird_2_1\bin\fbserver.exe"
+
+
+
+HOLANDA (Server)	Mon Aug 30 11:07:32 2010
+	INET/inet_error: select in packet_receive errno = 10038
+
